@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Hackgreenville](https://hackgreenville.com/)
 
-- 💬 Ask me about **laravel, Rust, Python, react, and vue, PayloadCMS**
+- 💬 Ask me about **laravel, Rust, Python, react, and vue, PayloadCMS, CraftCMS**
 
 - 📫 How to reach me **developermax902@gmail.com**
 
