@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm a senior software engineer</h1>
-<h3 align="center">A passionate software engineer from the great country of USA.</h3>
+<h1 align="center">Hi 👋 forks, I'm here to help people</h1>
+<h3 align="center">A passionate software engineer living in the great country of USA</h3>
 
 - 🔭 I’m currently working on **Lots of fun projects**
 
 - 👯 I’m looking to collaborate on **Anything fun**
 
-- 🤝 I’m looking for help with [Hackgreenville](https://hackgreenville.com/)
+- 🤝 I’m looking for help with [CraftCMS](https://craftcms.com/), [Tauri](https://v2.tauri.app/), [Hackgreenville](https://hackgreenville.com/)
 
-- 💬 Ask me about **laravel, Rust, Python, react, and vue, PayloadCMS, CraftCMS**
+- 💬 Ask me about **Laravel, Rust, Python, React, and Vue, PayloadCMS, CraftCMS**
 
 - 📫 How to reach me **developermax902@gmail.com**
 
