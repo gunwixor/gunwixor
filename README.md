@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lots of fun projects**
 
-- 👯 I’m looking to collaborate on **Lots of fun projects**
+- 👯 I’m looking to collaborate on **Anything fun**
 
 - 🤝 I’m looking for help with [Hackgreenville](https://hackgreenville.com/)
 
