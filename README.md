@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 forks, I'm here to help people</h1>
-<h3 align="center">A passionate software engineer living in the great country of USA</h3>
+<h3 align="center">A passionate software engineer living with GOD</h3>
 
 - 🔭 I’m currently working on **Lots of fun projects**
 
