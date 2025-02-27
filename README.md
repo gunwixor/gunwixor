@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [CraftCMS](https://craftcms.com/), [Tauri](https://v2.tauri.app/), [Hackgreenville](https://hackgreenville.com/)
 
-- 💬 Ask me about **Laravel, Rust, Python, React, and Vue, PayloadCMS, CraftCMS**
+- 💬 Ask me about **Laravel, Rust, Python, React, and Vue, Svelte, CraftCMS**
 
 - 📫 How to reach me **developermax902@gmail.com**
 
