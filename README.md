@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **developermax902@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : Adil</h3>
 <p align="left">
 <a href="https://discord.gg/@bounceru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@bounceru" height="30" width="40" /></a>
 </p>
