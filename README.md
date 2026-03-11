@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋 forks, I'm here to help people</h1>
-<h3 align="center">A passionate software engineer living with GOD</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on **Lots of fun projects**
 
 - 👯 I’m looking to collaborate on **Anything fun**
 
-- 🤝 I’m looking for help with [CraftCMS](https://craftcms.com/), [Tauri](https://v2.tauri.app/), [Hackgreenville](https://hackgreenville.com/)
 
-- 💬 Ask me about **Laravel, Rust, Python, React, and Vue, Svelte, CraftCMS**
+- 💬 Ask me about **Next, React, Angular, React Native**
 
 - 📫 How to reach me **developermax902@gmail.com**
 
