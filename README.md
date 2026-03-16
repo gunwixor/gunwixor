@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Anything fun**
 
 
-- 💬 Ask me about **Next, React, Angular, React Native**
+- 💬 Ask me about **PHP, Laravel, Next, React, Angular, React Native**
 
 - 📫 How to reach me ****
 
